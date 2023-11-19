@@ -1,0 +1,17 @@
+GEOID: A unique identifier for geographic locations.
+Name: Name of the location, possibly a city or a region.
+Parent-location: The larger administrative area that the location belongs to, such as a state.
+Year: The year for which the data is recorded.
+Population: The population of the location.
+Poverty Rate: The percentage of the population living in poverty.
+Pct-renter-occupied: The percentage of properties that are rented.
+Median Gross Rent: The median rent paid by renters.
+Median Household Income: The median income of households in the location.
+Median Property Value: The median value of properties in the area.
+Rent Burden: The percentage of income spent on rent.
+Evictions: The number of evictions that took place.
+Evictions Lower/Upper: Possibly the lower and upper estimates or bounds for eviction numbers.
+Eviction Rate: The rate of evictions per 100 households.
+Eviction Rate Lower/Upper: Lower and upper bounds for the eviction rate.
+Eviction Filing Rate: The rate at which evictions are filed.
+Eviction Filing Rate Lower/Upper: Lower and upper bounds for the eviction filing rate.
